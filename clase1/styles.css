@@ -1,0 +1,38 @@
+p{
+    font-size: 1rem;
+    color: darkblue;
+}
+
+.photo{
+  width: 80%;
+
+}
+
+#textoCambiado{
+    size: 2rem;
+    color: burlywood;
+    background-color: blue;
+}
+
+#p1{
+    text-align: left;
+}
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    text-align: right;
+}
+
+ol{
+    list-style-type:upper-latin;
+    color: blue;
+    
+}
+
+.el{
+    color: black;
+    font-weight: bold;
+}
